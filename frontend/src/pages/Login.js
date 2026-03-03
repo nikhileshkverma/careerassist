@@ -45,7 +45,6 @@ export default function Login() {
         </form>
         <div className="auth-divider">Don't have an account? <Link to="/register" style={{ color: '#4f46e5', fontWeight: 600 }}>Register here</Link></div>
         <div style={{ background: '#f8fafc', border: '1px solid #e2e8f0', borderRadius: 8, padding: 12, fontSize: 12, color: '#64748b' }}>
-          
         </div>
       </div>
     </div>
