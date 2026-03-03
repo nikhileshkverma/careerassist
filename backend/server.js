@@ -12,7 +12,7 @@ const resumeRoutes  = require('./routes/resume');
 const adminRoutes   = require('./routes/admin');
 
 const app  = express();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5030;
 
 // ─── CORS — allow both local dev and deployed frontend ─────────────────────────
 const allowedOrigins = [
